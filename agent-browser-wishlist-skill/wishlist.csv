@@ -1,0 +1,4 @@
+item_id,target_url,login_url,platform,notes
+jd-demo,https://example.com/product/jd-demo,https://passport.jd.com/new/login.aspx,jd,replace with real product page
+pdd-demo,https://example.com/product/pdd-demo,https://mobile.yangkeduo.com/login.html,pdd,replace with real product page
+taobao-demo,https://example.com/product/tb-demo,https://login.taobao.com/,taobao,replace with real product page
